@@ -1,0 +1,10 @@
+[uBlock Origin]
+! Title: Ublock Microsoft
+! Last modified: 2025/2/3
+! Expires: 1 day
+! Homepage: https://github.com/Scoop2389/msn-junk/
+www.msn.com##.weaRightRailAds2.weaBatch2NativeAdsRR.WeatherRightRailRoot-DS-EntryPoint1-1
+www.msn.com##.feedsSection-DS-EntryPoint1-1
+www.msn.com##.adsContainer-DS-EntryPoint1-1
+www.msn.com##.scrollContainer-DS-EntryPoint1-1:style(height: auto !important;)
+www.msn.com##msn-nav-item[id="my-feed"]
