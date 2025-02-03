@@ -1,5 +1,5 @@
 # MSN minus the Junk
-A filter list for Ublock Origin that removes news junk and other unwanted bloat from MSN websites (like Microsoft Weather).
+Filter lists for Ublock Origin that removes news junk and other unwanted bloat from MSN websites (like Microsoft Weather).
 ## Installation
 Go to releases and copy the direct link for the most recent version of the filter list.
 > [!WARNING]
