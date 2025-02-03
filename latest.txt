@@ -8,3 +8,10 @@ www.msn.com##.feedsSection-DS-EntryPoint1-1
 www.msn.com##.adsContainer-DS-EntryPoint1-1
 www.msn.com##.scrollContainer-DS-EntryPoint1-1:style(height: auto !important;)
 www.msn.com##msn-nav-item[id="my-feed"]
+www.msn.com##.weaBatch2NativeAdsRR.WeatherRightRailRoot-DS-EntryPoint1-1
+www.msn.com###WeatherRightRail-ScreenWidth-c5
+www.msn.com###newsContentTitleButton
+www.msn.com###search-container
+www.msn.com##.news-DS-tjAISU.block-DS-KLna_G
+www.msn.com###DisplayAdsWC0
+www.msn.com###DisplayAdsWC22
