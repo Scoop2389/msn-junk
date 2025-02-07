@@ -1,5 +1,6 @@
 # msn-junk
 MSN minus the junk.
+
 Filter lists for Ublock Origin that removes news junk and other unwanted bloat from MSN websites (like Microsoft Weather).
 ## Installation
 > [!NOTE]
