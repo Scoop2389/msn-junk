@@ -3,6 +3,7 @@ Filter lists for Ublock Origin that removes news junk and other unwanted bloat f
 ## Installation
 > [!NOTE]
 > Currently, the MSN Weather filter and All combined filters are the same, as I have only made filters for MSN Weather
+
 Go to releases and copy the direct link for the most recent version of the filter list.
 ### Automatic Updates
 > [!WARNING]
