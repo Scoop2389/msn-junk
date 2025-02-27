@@ -15,3 +15,5 @@ www.msn.com###search-container
 www.msn.com##.news-DS-tjAISU.block-DS-KLna_G
 www.msn.com###DisplayAdsWC0
 www.msn.com###DisplayAdsWC22
+www.msn.com##.ViewsNativeAts-DS-EntryPoint1-2
+www.msn.com##.weaRightRailAds2.weaBatch2NativeAdsRR.WeatherRightRailRoot-DS-EntryPoint1-2
